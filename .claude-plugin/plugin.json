@@ -1,0 +1,9 @@
+{
+  "name": "usage-graph",
+  "version": "0.1.0",
+  "description": "Shows the remaining rate-limit usage (5-hour and weekly windows) as a graph in a pane",
+  "author": {
+    "name": "narumincho"
+  },
+  "types": "./types/index.d.ts"
+}

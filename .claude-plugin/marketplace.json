@@ -1,0 +1,13 @@
+{
+  "name": "claude-usage-graph",
+  "owner": {
+    "name": "narumincho"
+  },
+  "description": "A Claude Code mod that graphs the remaining rate-limit usage in a pane",
+  "plugins": [
+    {
+      "name": "usage-graph",
+      "source": "./"
+    }
+  ]
+}
